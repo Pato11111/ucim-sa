@@ -1,4 +1,4 @@
 import tkinter
 
 
-print("okej")
+print("okejcqc")
