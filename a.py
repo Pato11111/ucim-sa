@@ -1,4 +1,4 @@
 import tkinter
 
 
-print("abdce")
+print("12345")
